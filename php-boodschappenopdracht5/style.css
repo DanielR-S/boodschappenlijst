@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+}
+
+td, th {
+    border: 1px solid #888;
+    padding: 10;
+    border-collapse:collapse;
+}
